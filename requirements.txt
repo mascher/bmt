@@ -13,7 +13,7 @@ clarifai==2.6.2
 #conda==4.8.2
 conda
 #conda-package-handling==1.6.0
-conda-package-handling
+#conda-package-handling
 configparser==5.0.0
 cryptography==2.8
 cycler==0.10.0
